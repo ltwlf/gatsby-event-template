@@ -2,6 +2,12 @@
 
 With this Gatsby template you can host a simple event
 
+## Prerequisite
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [nodejs](https://nodejs.org/)
+- [VCC++ Redist](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0)
+
 ### Install gatsby
 
 ```powershell
